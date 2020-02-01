@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60" started-at="2020-02-01T12:32:07 EST" finished-at="2020-02-01T12:32:07 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60" started-at="2020-02-01T12:32:07 EST" finished-at="2020-02-01T12:32:07 EST">
+      <class name="class_01_execution.Lec_01_M01_Execuation">
+        <test-method status="PASS" signature="test1()[pri:0, instance:class_01_execution.Lec_01_M01_Execuation@6e6c3152]" name="test1" is-config="true" duration-ms="15" started-at="2020-02-01T12:32:07 EST" finished-at="2020-02-01T12:32:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:class_01_execution.Lec_01_M01_Execuation@6e6c3152]" name="test2" duration-ms="6" started-at="2020-02-01T12:32:07 EST" finished-at="2020-02-01T12:32:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:class_01_execution.Lec_01_M01_Execuation@6e6c3152]" name="test3" is-config="true" duration-ms="1" started-at="2020-02-01T12:32:07 EST" finished-at="2020-02-01T12:32:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- class_01_execution.Lec_01_M01_Execuation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

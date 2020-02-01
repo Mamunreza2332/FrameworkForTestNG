@@ -1,0 +1,11 @@
+@Test :  To mark a method as a test method
+@BeforeMethod: Executes before each test (@Test) method
+@AfterMethod: Executes after each test method
+@BeforeClass: Executes before the first test method in the current class
+@AfterClass: Executes after all the test methods in a current class
+@BeforeTest: Executes before any test methods of available classes which are inside the <test> tag in the testng.xml in this suite
+@AfterTest: Executes after all the test methods of available classes which are inside the <test> tag in the testng.xml in this suite
+@BeforeSuite: Executes before all the tests in this suite
+@AfterSuite: Executes after all tests executed in this current suite
+@BeforeGroup: Executes before the first test method run in that specified group
+@AfterGroup: Executes after the end of all the test methods executed in that specified group
